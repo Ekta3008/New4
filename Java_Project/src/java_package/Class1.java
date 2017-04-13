@@ -6,6 +6,7 @@ public class Class1 {
 		System.out.println("First Update");
 		System.out.println("Second Update");
 		System.out.println("Third Update");
+		System.out.println("Fourth Update");
 
 	}
 
